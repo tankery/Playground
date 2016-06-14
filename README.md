@@ -4,10 +4,11 @@
 
 ## Basic usage
 
-First line.    
+First line.  
 Second line.
 
-To add a `<br>`, add 4 space after first line.
+To add a `<br>`, add at least 2 space after first line.  
+(Github only need 1 space, but in some edit more space is need.)
 
 ## <a id="fine-header-1"></a>Header 1
 
