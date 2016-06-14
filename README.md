@@ -2,6 +2,13 @@
 [NOT Product] This is a repository for myself feature test with GitHub
 
 
+## Basic usage
+
+First line.    
+Second line.
+
+To add a `<br>`, add 4 space after first line.
+
 ## <a id="fine-header-1"></a>Header 1
 
 Duis et viverra quam. Fusce condimentum ligula sed turpis euismod condimentum. Maecenas eget est mollis, dapibus mauris pellentesque, rhoncus turpis. Maecenas quam sem, convallis et sapien tempor, ultrices mattis quam. Mauris id nulla molestie, blandit nulla eu, euismod magna. Vestibulum a est nec tellus viverra euismod. Ut ac euismod libero. In ut turpis at tortor condimentum mollis eget commodo lacus. Nunc vel diam ac mi laoreet venenatis pharetra sit amet nunc. Sed ultricies nisi in odio molestie, ac sollicitudin mauris maximus. Quisque est tellus, convallis vel magna nec, porttitor vehicula sem. Aenean mattis dui mauris, sit amet pellentesque quam vehicula non. Duis sit amet sollicitudin ipsum. Vestibulum venenatis commodo nulla sed mattis.
